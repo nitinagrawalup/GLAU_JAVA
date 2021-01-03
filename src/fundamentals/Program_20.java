@@ -15,3 +15,9 @@ public class Program_20 {
 	}
 
 }
+/*
+WAP to accept name form the user and print welcome message with
+user name.
+Input : Ravi
+output : Welcome Ravi
+*/
