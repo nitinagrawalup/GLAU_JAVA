@@ -24,3 +24,8 @@ public class Program_22 {
 	}
 
 }
+
+/*
+WAP to accept name, age, gender form user and print them on output
+screen.
+*/
