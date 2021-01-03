@@ -9,9 +9,8 @@ public class Program_29 {
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Enter a number : ");
-		int num = sc.nextInt();
-		int num_final = Math.abs(num);
-		String str = Integer.toString(num_final);
+		int num = Math.abs(sc.nextInt());
+		String str = Integer.toString(num);
 		System.out.println("Number "+ num+ " contain only "+str.length()+" digit");
 		sc.close();
 
