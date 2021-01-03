@@ -40,3 +40,12 @@ public class Program_21 {
 	}
 
 }
+
+/*
+WAP to declare variables of all 8 primitive type, initialize them by
+taking value from user and print them on output screen.
+Hint: Scanner class doesn't provide direct method for character input, to
+get character input use the following code;
+Scanner sc = new Scanner(System.in);
+char input = sc.next().charAt(0);
+*/
