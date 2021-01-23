@@ -185,6 +185,11 @@ The role of an abstract class is to contain abstract methods. However, it may al
     <a href="https://www.youtube.com/embed/1r4UfkjARTA" >Lesson</a>
   </li>
 </ul>
+<br/>
+<img src="images/JDBC_Driver.png"/>
+<br/>
+<img src="images/JDBC_Connectivity.PNG"/>
+<br/>
 <dl>
   <dt>DriverManager class</dt>
   <dd>The DriverManager class acts as an interface between user and drivers. It keeps track of the drivers that are available and handles establishing a connection between a database and the appropriate driver. The DriverManager class maintains a list of Driver classes that have registered themselves by calling the method DriverManager.registerDriver(). </dd>
