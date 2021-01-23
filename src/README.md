@@ -10,12 +10,6 @@
 <img src="images/Hierarchical_Inheritance.png">
 <br/>
 
-<img src="images/Multiple_Inheritance (Through Interfaces).png">
-<br/>
-
-<img src="images/Hybrid_Inheritance(Through Interfaces).png">
-<br/>
-
 <hr/>
 <h1> Interfaces</h1>
 <br/>
@@ -23,7 +17,15 @@
   <li>
     <a href="https://www.youtube.com/embed/zSX7N5MolB8" > Lesson</a>
   </li>
- </ul>
+</ul>
+ 
+<img src="images/Multiple_Inheritance (Through Interfaces).png">
+<br/>
+
+<img src="images/Hybrid_Inheritance(Through Interfaces).png">
+<br/>
+
+
 
 <hr/>
 <h1> Threads </h1>
