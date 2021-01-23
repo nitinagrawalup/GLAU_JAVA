@@ -172,3 +172,51 @@ The role of an abstract class is to contain abstract methods. However, it may al
 </ul>
 
 <hr/>
+
+<h1> Regular Expressions </h1>
+<br/>
+<i>
+  Regular Expressions or Regex (in short) is an API for defining String patterns that can be used for searching, manipulating and editing a string in Java. Email validation and passwords are few areas of strings where Regex are widely used to define the constraints. Regular Expressions are provided under java.util.regex package. This consists of 3 classes and 1 interface.
+</i>
+<br/>
+<i>
+  The java.util.regex package primarily consists of the following three classes
+</i>
+<table>
+<tr>
+  <td>Class
+  </td>
+  <td>Description
+  </td>
+</tr>
+  
+  <tr>
+  <td>util.regex.Pattern
+  </td>
+  <td>Used for defining patterns
+  </td>
+</tr>
+
+<tr>
+  <td>util.regex.Matcher
+  </td>
+  <td>Used for performing match operations on text using patterns
+  </td>
+</tr>
+
+
+<tr>
+  <td>PatternSyntaxException
+  </td>
+  <td>Used for indicating syntax error in a regular expression pattern
+  </td>
+</tr>
+</table>
+
+<ul>
+  <li>
+    <a href="https://www.geeksforgeeks.org/regular-expressions-in-java/" >Lesson</a>
+  </li>
+</ul>
+
+<hr/>
