@@ -24,6 +24,17 @@
 </ul>
 <br/>
 <hr/>
+<h1>Command Line Arguments</h1>
+<ul>
+  <li>
+    <a href="https://youtu.be/4H34eumdAZY" > Lesson 1</a>
+  </li>
+  <li>
+    <a href="https://www.geeksforgeeks.org/command-line-arguments-in-java/" > Lesson 2</a>
+  </li>
+</ul>
+<br/>
+<hr/>
 <h1>String vs StringBuffer vs StringBuilder</h1>
 
 <ul>
