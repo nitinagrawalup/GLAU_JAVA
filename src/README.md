@@ -220,3 +220,25 @@ The role of an abstract class is to contain abstract methods. However, it may al
 </ul>
 
 <hr/>
+
+<h1> Errors V/s Exceptions </h1>
+<br/>
+ <img src="images/exception"/>
+<ul>
+  <li>
+    <a href="https://www.geeksforgeeks.org/errors-v-s-exceptions-in-java/" >Lesson</a>
+  </li>
+</ul>
+
+<hr/>
+
+
+<h1> Packages in java using CMD </h1>
+<br/>
+<ul>
+  <li>
+    <a href="https://youtu.be/uIyLyqmhzbM" >Lesson</a>
+  </li>
+</ul>
+
+<hr/>
