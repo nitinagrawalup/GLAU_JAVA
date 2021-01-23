@@ -110,6 +110,20 @@ The role of an abstract class is to contain abstract methods. However, it may al
 </ul>
 <br/>
 <hr/>
+
+
+<h1>Autoboxing | Unboxing | Auto-Widening or Automatic Type Conversion </h1>
+<br/>
+<ul>
+  <li>
+    <a href="https://www.geeksforgeeks.org/autoboxing-unboxing-java/" >Lesson 1</a>
+  </li>
+  <li>
+    <a href="https://www.geeksforgeeks.org/type-conversion-java-examples/" >Lesson 2</a>
+  </li>
+  
+</ul
+
 <h1>Garbage Collection</h1>
 <ul>
   <li>
@@ -223,10 +237,13 @@ The role of an abstract class is to contain abstract methods. However, it may al
 
 <h1> Errors V/s Exceptions </h1>
 <br/>
- <img src="images/exception"/>
+ <img src="images/exception.png"/>
 <ul>
   <li>
-    <a href="https://www.geeksforgeeks.org/errors-v-s-exceptions-in-java/" >Lesson</a>
+    <a href="https://www.geeksforgeeks.org/errors-v-s-exceptions-in-java/" >Lesson 1</a>
+  </li>
+  <li>
+    <a href="https://youtu.be/yxdu-Xs9ncY" >Lesson 2</a>
   </li>
 </ul>
 
@@ -239,6 +256,16 @@ The role of an abstract class is to contain abstract methods. However, it may al
   <li>
     <a href="https://youtu.be/uIyLyqmhzbM" >Lesson</a>
   </li>
+  
 </ul>
-
+<h1> Packages in java using IDE </h1>
+<br/>
+<ul>
+  <li>
+    <a href="https://youtu.be/ZunFumWa-ZU" >Lesson</a>
+  </li>
+  
+</ul
 <hr/>
+
+
