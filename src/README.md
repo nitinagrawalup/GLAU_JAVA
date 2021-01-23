@@ -19,11 +19,16 @@
 <hr/>
 <h1> Interfaces</h1>
 <br/>
-<a href="https://www.youtube.com/embed/zSX7N5MolB8" > Lesson</a>
+<ul>
+  <li>
+    <a href="https://www.youtube.com/embed/zSX7N5MolB8" > Lesson</a>
+  </li>
+ </ul>
+
 <hr/>
 <h1> Threads </h1>
 <br/>
-<ol>
+<ul>
   <li>
      <a href="https://www.youtube.com/embed/YDH7f9dTXAs?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q" >Lesson 1</a>
  </li>
@@ -46,14 +51,17 @@
      <a href="https://www.youtube.com/embed/rVDWb0stlfQ?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q"> Lesson 7</a>
  </li>
  
-</ol>
+</ul>
+<br/>
+<h1>Generics</h1>
+<img src="images/Generics.png"/>
 <br/>
 <h1> JDBC </h1>
 <br/>
-<ol>
+<ul>
   <li>
     <a href="https://www.youtube.com/embed/1r4UfkjARTA" >Lesson</a>
   </li>
-</ol>
+</ul>
 
 <hr/>
