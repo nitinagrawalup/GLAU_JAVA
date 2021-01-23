@@ -182,7 +182,10 @@ The role of an abstract class is to contain abstract methods. However, it may al
 <br/>
 <ul>
   <li>
-    <a href="https://www.youtube.com/embed/1r4UfkjARTA" >Lesson</a>
+    <a href="https://www.youtube.com/embed/1r4UfkjARTA" >Lesson 1</a>
+  </li>
+  <li>
+    <a href="https://www.javatpoint.com/jdbc-driver" >Lesson 2</a>
   </li>
 </ul>
 <br/>
