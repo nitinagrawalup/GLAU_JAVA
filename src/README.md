@@ -79,10 +79,30 @@
 <img src="images/Hybrid_Inheritance(Through Interfaces).png">
 <br/>
 <hr/>
-<h1>Wrapper Classes</h1>
+
+<h1>Abstract Keyword| Abstract Classes | Abstract Method</h1>
 <ul>
   <li>
     <a href="https://youtu.be/Q0NVRQP1Z5g" > Lesson </a>
+  </li>
+</ul>
+<br/>
+<hr/>
+
+<h1>Wrapper Classes</h1>
+<i>The abstract keyword is used to achieve abstraction in Java. It is a non-access modifier which is used to create abstract class and method.
+<br/>
+The role of an abstract class is to contain abstract methods. However, it may also contain non-abstract methods. The method which is declared with abstract keyword and doesn't have any implementation is known as an abstract method.
+</i>
+<ul>
+  <li>
+    <a href="https://www.javatpoint.com/abstract-keyword-in-java#:~:text=The%20abstract%20keyword%20is%20used,create%20abstract%20class%20and%20method.&text=However%2C%20it%20may%20also%20contain,known%20as%20an%20abstract%20method." > Lesson 1</a>
+  </li>
+  <li>
+    <a href="https://youtu.be/bIQMuFPgKpM" > Lesson 2</a>
+  </li>
+   <li>
+    <a href="https://youtu.be/4rkPvf6hlIA" > Lesson 3</a>
   </li>
 </ul>
 <br/>
