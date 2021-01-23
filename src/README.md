@@ -14,10 +14,20 @@
 </ul>
 <br/>
 <hr/>
-<h1>String vs StringBuffer vs StringBuilder</h1>
+h1>var keyword in Java</h1>
 <ul>
   <li>
-    <a href="https://youtu.be/EQ85-lF_jrs?list=PLhfPtfcHTJPOkJdrd1ljSU6vcYxbUwxcL" > Lesson </a>
+    <a href="https://youtu.be/rV_3Lewxx6o" > Lesson </a>
+  </li>
+</ul>
+<br/>
+<hr/>
+<h1>String vs StringBuffer vs StringBuilder</h1>
+<i>The var keyword was introduced in Java 10. Type inference is used in var keyword in which it detects automatically the datatype of a variable based on the surrounding context.</i>
+
+<ul>
+  <li>
+    <a href="https://www.geeksforgeeks.org/var-keyword-in-java/" > Lesson </a>
   </li>
 </ul>
 <br/>
