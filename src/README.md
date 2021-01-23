@@ -6,6 +6,14 @@
 </ul>
 <br/>
 <hr/>
+<h1>Fundamentals of Java</h1>
+<ul>
+  <li>
+    <a href="https://youtu.be/rV_3Lewxx6o" > Lesson </a>
+  </li>
+</ul>
+<br/>
+<hr/>
 <h1>OOPS</h1>
 <br/>
 <img src="images/Single_Inheritance.png">
