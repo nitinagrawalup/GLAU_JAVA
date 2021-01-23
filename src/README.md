@@ -185,6 +185,23 @@ The role of an abstract class is to contain abstract methods. However, it may al
     <a href="https://www.youtube.com/embed/1r4UfkjARTA" >Lesson</a>
   </li>
 </ul>
+<dl>
+  <dt>DriverManager class</dt>
+  <dd>The DriverManager class acts as an interface between user and drivers. It keeps track of the drivers that are available and handles establishing a connection between a database and the appropriate driver. The DriverManager class maintains a list of Driver classes that have registered themselves by calling the method DriverManager.registerDriver(). </dd>
+  
+  <dt>Connection interface</dt>
+  <dd>A Connection is the session between java application and database.A connection (session) with a specific database. SQL statements are executed and results are returned within the context of a connection.</dd>
+  
+  <dt>Statement interface</dt>
+  <dd>The Statement interface provides methods to execute queries with the database. The statement interface is a factory of ResultSet i.e. it provides factory method to get the object of ResultSet.</dd>
+  
+  <dt>ResultSet interface</dt>
+  <dd>A ResultSet object maintains a cursor pointing to its current row of data. Initially the cursor is positioned before the first row. The next method moves the cursor to the next row, and because it returns false when there are no more rows in the ResultSet object, it can be used in a while loop to iterate through the result set. </dd>
+  
+  <dt>PreparedStatement interface</dt>
+  <dd>Improves performance: The performance of the application will be faster if you use PreparedStatement interface because query is compiled only once.</dd>
+</dl>
+
 
 <hr/>
 
