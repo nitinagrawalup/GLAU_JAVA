@@ -19,7 +19,7 @@
 <hr/>
 <h1> Interfaces</h1>
 <br/>
-<a src="https://www.youtube.com/embed/zSX7N5MolB8" > Lesson</a>
+<a href="https://www.youtube.com/embed/zSX7N5MolB8" > Lesson</a>
 <hr/>
 <h1> Threads </h1>
 <br/>
@@ -50,5 +50,10 @@
 <br/>
 <h1> JDBC </h1>
 <br/>
-<a href="https://www.youtube.com/embed/1r4UfkjARTA" >Lesson</a>
+<ol>
+  <li>
+    <a href="https://www.youtube.com/embed/1r4UfkjARTA" >Lesson</a>
+  </li>
+</ol>
+
 <hr/>
