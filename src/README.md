@@ -247,7 +247,7 @@ The role of an abstract class is to contain abstract methods. However, it may al
     <a href="https://youtu.be/yxdu-Xs9ncY" >Lesson 2</a>
   </li>
   <li>
-    <a href="https://youtu.be/aaWtYyqm8pI" >Lesson 2</a>
+    <a href="https://youtu.be/aaWtYyqm8pI" >Lesson 3</a>
   </li>
 </ul>
 
