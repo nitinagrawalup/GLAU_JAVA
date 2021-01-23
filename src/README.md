@@ -14,7 +14,7 @@
 </ul>
 <br/>
 <hr/>
-h1>var keyword in Java</h1>
+<h1>var keyword in Java</h1>
 <ul>
   <li>
     <a href="https://youtu.be/rV_3Lewxx6o" > Lesson </a>
