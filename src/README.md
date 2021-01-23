@@ -1,5 +1,5 @@
 
-#OOPS
+## OOPS
 <br/>
 <img src="images/Single_Inheritance.png">
 <br/>
