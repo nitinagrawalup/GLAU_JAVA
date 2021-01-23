@@ -123,7 +123,8 @@ The role of an abstract class is to contain abstract methods. However, it may al
   </li>
   
 </ul
-
+<hr/>
+<br/>
 <h1>Garbage Collection</h1>
 <ul>
   <li>
