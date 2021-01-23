@@ -45,7 +45,7 @@
 <br/>
 <hr/>
 <h1>StringTokenizer</h1>
-<img src="src/images/StringTokenizer.png">
+<img src="images/StringTokenizer.png">
 <ul>
   <li>
     <a href="https://docs.oracle.com/javase/7/docs/api/java/util/StringTokenizer.html" > Lesson </a>
