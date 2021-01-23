@@ -1,18 +1,18 @@
 
 #OOPS
-<img href="/images/Single_Inheritance.png">
+<img href="src/images/Single_Inheritance.png">
 <br/>
 
-<img href="/images/Multilevel_Inheritance.png">
+<img href="src/images/Multilevel_Inheritance.png">
 <br/>
 
-<img href="/images/Hybrid_Inheritance.png">
+<img href="src/images/Hierarchical_Inheritance.png">
 <br/>
 
-<img href="/images/Multiple_Inheritance(Through Interfaces).png">
+<img href="src/images/Multiple_Inheritance (Through Interfaces).png">
 <br/>
 
-<img href="/images/Hybrid_Inheritance(Through Interfaces).png">
+<img href="src/images/Hybrid_Inheritance(Through Interfaces).png">
 <br/>
 
 <hr/>
