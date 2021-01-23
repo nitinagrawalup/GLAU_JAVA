@@ -70,6 +70,14 @@
 <h1>Generics</h1>
 <img src="images/Generics.png"/>
 <br/>
+<ul>
+  <li>
+    <a href="https://youtu.be/_CRxUYxlFTo" > Lesson 1</a>
+  </li>
+  <li>
+    <a href="https://youtu.be/dEOYASL9sD0" > Lesson 2</a>
+  </li>
+</ul>
 <h1> JDBC </h1>
 <br/>
 <ul>
