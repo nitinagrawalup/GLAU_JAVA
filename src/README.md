@@ -91,6 +91,11 @@
 <hr/>
 <h1>StringTokenizer</h1>
 <img src="images/StringTokenizer.png">
+<ul style="list-style-type:none;">
+    <li>
+    <a href="https://www.geeksforgeeks.org/stringtokenizer-class-java-example-set-1-constructors/" > Image taken from geeksforgeeks</a>
+  </li>
+</ul>
 <ul>
   <li>
     <a href="https://docs.oracle.com/javase/7/docs/api/java/util/StringTokenizer.html" > Lesson </a>
@@ -113,10 +118,12 @@
 <br/>
 <hr/>
 <h1>Object Oriented Programming (OOPs) Concept</h1>
-[![Object Oriented Programming (OOPs) Concept](https://img.youtube.com/vi/a199KZGMNxk/0.jpg)](https://youtu.be/a199KZGMNxk)
 <ul>
   <li>
-    <a href="https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/" > Lesson </a>
+    <a href="https://youtu.be/a199KZGMNxk" > Lesson 1</a>
+  </li>
+  <li>
+    <a href="https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/" > Lesson 2</a>
   </li>
 </ul>
 <br/>
@@ -172,7 +179,7 @@
 <br/>
 <img src="images/Single_Inheritance.png">
 <br/>
-<ul>
+<ul style="list-style-type:none;">
   <li>
     <a href="https://www.geeksforgeeks.org/inheritance-in-java/" > Image taken from geeksforgeeks</a>
   </li>
@@ -180,7 +187,7 @@
 <br/>
 <img src="images/Multilevel_Inheritance.png">
 <br/>
-<ul>
+<ul style="list-style-type:none;">
   <li>
     <a href="https://www.geeksforgeeks.org/inheritance-in-java/" > Image taken from geeksforgeeks</a>
   </li>
@@ -188,7 +195,7 @@
 <br/>
 <img src="images/Hierarchical_Inheritance.png">
 <br/>
-<ul>
+<ul style="list-style-type:none;">
   <li>
     <a href="https://www.geeksforgeeks.org/inheritance-in-java/" > Image taken from geeksforgeeks</a>
   </li>
@@ -214,7 +221,7 @@
  
 <img src="images/Multiple_Inheritance (Through Interfaces).png">
 <br/>
-<ul>
+<ul style="list-style-type:none;">
   <li>
     <a href="https://www.geeksforgeeks.org/inheritance-in-java/" > Image taken from geeksforgeeks</a>
   </li>
@@ -222,7 +229,7 @@
 <br/>
 <img src="images/Hybrid_Inheritance(Through Interfaces).png">
 <br/>
-<ul>
+<ul style="list-style-type:none;">
   <li>
     <a href="https://www.geeksforgeeks.org/inheritance-in-java/" > Image taken from geeksforgeeks</a>
   </li>
@@ -312,7 +319,7 @@
 <h1> Errors V/s Exceptions </h1>
 <br/>
  <img src="images/exception.png"/>
-<ul>
+<ul style="list-style-type:none;">
   <li>
     <a href="https://www.geeksforgeeks.org/errors-v-s-exceptions-in-java/" > Image from geeksforgeeks</a>
   </li>
@@ -407,7 +414,11 @@ The role of an abstract class is to contain abstract methods. However, it may al
 
 <h1>Generics</h1>
 <img src="images/Generics.png"/>
-<br/>
+<ul style="list-style-type:none;">
+  <li>
+    <a href="https://docs.oracle.com/javase/tutorial/java/generics/why.html" > Image from oracle.com</a>
+  </li>
+</ul>
 <ul>
   <li>
     <a href="https://youtu.be/_CRxUYxlFTo" > Lesson 1</a>
