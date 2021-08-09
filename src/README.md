@@ -574,7 +574,7 @@ The role of an abstract class is to contain abstract methods. However, it may al
 
 
 <hr/>
-## Inspirational
+<h2>Inspirational<h2>
 
 1. [Mr. Divyansh Bhardwaj](https://github.com/dbc2201)
 2. [Mr. Vaibhav Diwan](https://github.com/divaibhav)
