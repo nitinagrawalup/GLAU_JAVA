@@ -384,13 +384,16 @@
 <br/>
   
 <h1>Wrapper Classes</h1>
-<i>The abstract keyword is used to achieve abstraction in Java. It is a non-access modifier which is used to create abstract class and method.
+<i>The wrapper class in Java provides the mechanism to convert primitive into object and object into primitive.
 <br/>
-The role of an abstract class is to contain abstract methods. However, it may also contain non-abstract methods. The method which is declared with abstract keyword and doesn't have any implementation is known as an abstract method.
+Since J2SE 5.0, autoboxing and unboxing feature convert primitives into objects and objects into primitives automatically. The automatic conversion of primitive into an object is known as autoboxing and vice-versa unboxing.
 </i>
 <ul>
   <li>
-    <a href="https://youtu.be/Q0NVRQP1Z5g" > Lesson </a>
+    <a href="https://youtu.be/Q0NVRQP1Z5g" > Lesson 1</a>
+  </li>
+  <li>
+    <a href="https://www.javatpoint.com/wrapper-class-in-java">Lesson 2</a>
   </li>
 </ul>
 <br/>
